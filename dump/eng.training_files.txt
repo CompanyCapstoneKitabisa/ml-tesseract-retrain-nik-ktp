@@ -1,1 +1,0 @@
-train/eng.OCR_A_EXTENDED.exp0.lstmf
